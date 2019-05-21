@@ -17,5 +17,4 @@ var elems = document.getElementsByTagName("p"),
 	console.log( elems[i] );
 }*/
 
-
 })();
